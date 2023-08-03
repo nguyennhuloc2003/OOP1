@@ -1,8 +1,8 @@
-package Controller;
+package controller;
 
-import Model.Person;
-import Model.Student;
-import Model.Teacher;
+import model.Person;
+import model.Student;
+import model.Teacher;
 import common.Validation;
 import java.util.ArrayList;
 import java.util.Collections;

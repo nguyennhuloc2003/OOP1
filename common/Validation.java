@@ -2,7 +2,7 @@ package common;
     
 
 
-import Model.Person;
+import model.Person;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.regex.Matcher;

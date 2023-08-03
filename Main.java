@@ -1,5 +1,5 @@
 
-import Controller.Manager;
+import controller.Manager;
 
 
 public class Main {
